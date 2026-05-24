@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm TSC! 👋</h1>
+  <h1>Hi there, I'm FIRaci! 👋</h1>
   <h3>Aspiring Full Stack Engineer | AI Integration • Web Development • Game Dev</h3>
 </div>
 
