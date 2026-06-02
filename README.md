@@ -5,7 +5,7 @@
 
 I am passionate about building versatile and intelligent applications, with a focus on combining Full Stack development with AI capabilities. I enjoy integrating LLMs and various AI APIs to create modern, impactful technology without needing to build complex models from scratch.
 
-Currently an Information Technology student at HUST (CPA 3.25), I focus on building end-to-end applications that are performant, visually appealing, and leverage the power of AI to solve practical problems. 
+Currently an Information Technology student at HUST (CPA 3.23), I focus on building end-to-end applications that are performant, visually appealing, and leverage the power of AI to solve practical problems. 
 
 Driven by a commitment to technical excellence and continuous learning, I aim to develop comprehensive solutions that are both highly scalable and intelligently designed.
 
