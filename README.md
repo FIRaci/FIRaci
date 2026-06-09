@@ -24,6 +24,8 @@ Driven by a commitment to technical excellence and continuous learning, I aim to
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/assembly%20script-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Script" />
+  <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
 #### Frontend & Desktop
@@ -41,8 +43,8 @@ Driven by a commitment to technical excellence and continuous learning, I aim to
   <img src="https://img.shields.io/badge/elysia.js-FF5C00?style=for-the-badge&logoColor=white" alt="Elysia.js" />
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge" alt="Supabase" />
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge" alt="Firebase" />
 </p>
 
 #### AI Integration & Data
