@@ -11,16 +11,59 @@ Driven by a commitment to technical excellence and continuous learning, I aim to
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 
-*   **Languages:** JavaScript, TypeScript, Python, C, C++, Java, HTML, CSS, LaTeX
-*   **Frontend & Desktop:** React.js, Vite, Tailwind CSS, Electron.js
-*   **Backend & Database:** Node.js, Elysia.js, PostgreSQL, Prisma, Supabase, Firebase
-*   **AI Integration & Data:** LLM APIs Integration, Pandas, NumPy, Matplotlib
-*   **Game Development:** Unity, Godot
-*   **DevOps, Tools & Platforms:** Docker, Git, GitHub, Google Cloud, Vercel, Netlify, Railway, Zod, WordPress
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,java,html,css" alt="Languages" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+</p>
+
+#### Frontend & Desktop
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,electron,nextjs" alt="Frontend & Desktop" />
+</p>
+
+#### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,firebase" alt="Backend & Database" />
+  <img src="https://img.shields.io/badge/Elysia.js-FF5C00?style=for-the-badge&logoColor=white" alt="Elysia.js" />
+</p>
+
+#### AI Integration & Data
+<p>
+  <img src="https://img.shields.io/badge/LLM_APIs_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs Integration" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+</p>
+
+#### Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,godot" alt="Game Development" />
+</p>
+
+#### DevOps, Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gcp,vercel,netlify,wordpress" alt="DevOps, Tools & Platforms" />
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Zod-3068b7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+</p>
+
+### 🌐 Connect with me
+
+<p>
+  <a href="https://www.facebook.com/thanh.bequoc.5/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:firacinon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
+
 
 <div align="center">
   <p><i>"Combining robust software engineering with practical AI integration to create impactful solutions."</i></p>
